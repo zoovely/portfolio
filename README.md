@@ -6,7 +6,7 @@
         <img width="766" alt="스크린샷 2021-07-31 오후 9 37 50" src="https://user-images.githubusercontent.com/84768491/127740155-6ed468f6-00b3-431f-8694-fc5915561afa.png">
       <details markdown="1">
         <summary>다른 화면</summary>   
-          <img width="308" alt="스크린샷 2021-07-31 오후 9 39 41" src="https://user-images.githubusercontent.com/84768491/127740154-c18521eb-90ed-4d47-b2d7-8fc43945cefa.png">
+        <img width="308" alt="스크린샷 2021-07-31 오후 9 39 41" src="https://user-images.githubusercontent.com/84768491/127740154-c18521eb-90ed-4d47-b2d7-8fc43945cefa.png">
         <p>사용자 정보 저장 화면</p>  
         <img width="512" alt="스크린샷 2021-07-31 오후 9 40 38" src="https://user-images.githubusercontent.com/84768491/127740150-da338d2e-1dd1-44ea-a630-c45b58bf57dc.png">
         <p>화재 감지 시 수신되는 알림</p>  
