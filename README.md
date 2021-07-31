@@ -18,7 +18,7 @@
   <li>other_project
     <p>졸업 작품 외에 대학 강의를 들으면서 진행했던 프로젝트입니다. <b>임베디드 시스템</b>에서는 알코올 농도가 일정 수치를 넘거나 비밀번호가 틀리면 상자가 열리지 않는 스마트 보관함을 제작하였습니다. ATmega128과 아두이노를 통해 작업하였습니다. <b>클라우드 컴퓨팅</b>에서는 AWS를 사용하여 웹서버를 구축하는 과정을 진행해보았습니다.</p>  
     <div align="center">
-          <img width="512" alt="스크린샷 2021-07-31 오후 9 40 38" src="https://https://user-images.githubusercontent.com/84768491/127741806-7800b01f-bfc9-4514-b35b-aeb31702c7c6.png">  
+          <img width="512" alt="스크린샷 2021-07-31 오후 9 40 38" src="https://drive.google.com/file/d/1MPi9X1vtyEqm-HQ23iepYD_67dCKXOa4/view?usp=sharing">  
           <p>임베디드 시스템 : 설계 회로도</p>
           <img width="1292" alt="스크린샷 2021-07-31 오후 10 34 15" src="https://user-images.githubusercontent.com/84768491/127741554-46a8ecb5-fa36-46b5-b66f-97e76432f1a0.png">   
           <p>임베디드 시스템 : 실제 회로 및 부품과 작동 스크린샷</p>  
